@@ -4,15 +4,7 @@
 
 ## 游戏界面截图
 
-### v1.0：
-
-![0b7f9c4a8da44d542041e8ffacb432e](C:\Users\白\AppData\Local\Temp\WeChat Files\0b7f9c4a8da44d542041e8ffacb432e.png)![e8692f527ef61cdb9441ab58b9c10c2](C:\Users\白\AppData\Local\Temp\WeChat Files\e8692f527ef61cdb9441ab58b9c10c2.png)![b01ad33e53248c94d953dc1c42798e8](C:\Users\白\AppData\Local\Temp\WeChat Files\b01ad33e53248c94d953dc1c42798e8.png)
-
-
-
-### v2.0:
-
-![image-20230705112106622](C:\Users\白\AppData\Roaming\Typora\typora-user-images\image-20230705112106622.png)![image-20230705112114168](C:\Users\白\AppData\Roaming\Typora\typora-user-images\image-20230705112114168.png)![image-20230705112121641](C:\Users\白\AppData\Roaming\Typora\typora-user-images\image-20230705112121641.png)
+见库内“游戏界面截图”文件夹
 
 ## 游戏规则
 
